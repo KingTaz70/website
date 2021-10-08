@@ -1,0 +1,153 @@
+
+/* Background image for all pages */
+
+body {
+    background-image: url("/website images/Pink Teddy.jpeg");
+    /* background-repeat: */
+    background-size: 35%;
+    background-position: center; 
+} 
+
+
+/*_______________________________________________________________________*/
+
+.container {
+    display:flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.708);
+    border-radius: 10%;
+    border-width:thick;
+    border-style:double;
+    border-color: purple;
+    opacity: 75%;
+    flex-direction: column; 
+    
+}
+
+
+h1 {
+    color:rgb(87, 1, 87);
+    font-size: 64px;
+    font-weight: bolder;
+    font-family: 'Akronim', cursive;
+    text-align: center;
+}
+
+/* nav bar */
+
+.navbar {
+    background-color:rgba(128, 0, 128, 0.55);
+    border-radius: 10%;
+    border-color: purple;
+    border-style:double;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;  
+    width: auto;
+    height:auto; 
+    
+
+
+}
+
+.button{
+    background-color:rgb(181, 29, 181);
+    color:white;
+    border-radius: 25px;
+    border-color: purple;
+    border-style:double;
+    font-family: 'Akronim', cursive;
+    font-weight: bolder;
+    font-size: 30px;
+    height: 50px;
+    width: auto;
+    
+}
+
+h2 {
+    color: rgb(128, 0, 128);
+    font-size: 40px;
+    font-family: 'Akronim', cursive;
+    font-weight: bolder;
+    text-align: center;
+}
+
+/* Intro text */
+
+.intro {
+
+    background-color: transparent;
+    opacity:100% ;
+    color: rgb(85, 17, 114);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+
+}
+
+.intro2 {
+    color:rgb(85, 17, 114);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content:center
+}
+
+.instagram{
+    color:rgb(85, 17, 114);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content:center
+}
+
+.icon {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    
+}
+
+
+
+.designs {
+    display: flex;
+    background-color: white;
+    border-color: purple;
+    border-style: double;
+    border-radius: 10%;
+    opacity: 100;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+.signature {
+    color:rgb(85, 17, 114);
+    font-size: 30px;
+    font-family: 'Akronim', cursive;
+    font-weight: bolder;
+    text-indent: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content:left
+}
+/* _____________________________________________________________________________ */
+
+/* Contact page */
+
+.intro3 {
+    color:rgb(85, 17, 114);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content:center
+}
