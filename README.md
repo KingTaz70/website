@@ -1,3 +1,2 @@
 # website
-
-https://kingtaz70.github.io/website/
+https://github.com/KingTaz70/website.git
